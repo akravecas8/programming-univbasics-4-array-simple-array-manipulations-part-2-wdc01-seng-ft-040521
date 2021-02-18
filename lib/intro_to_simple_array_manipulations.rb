@@ -22,6 +22,5 @@ def using_delete(instructors,x)
 end
 
 def using_delete_at(famous_robots, 2)
-  x="Steven"
   instructors.delete(x)
 end
