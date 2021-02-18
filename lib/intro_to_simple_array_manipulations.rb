@@ -16,6 +16,6 @@ def using_flatten(haircuts)
   haircuts.flatten
 end
 
-def using_flatten(haircuts)
+def using_delete(haircuts)
   haircuts.flatten
 end
