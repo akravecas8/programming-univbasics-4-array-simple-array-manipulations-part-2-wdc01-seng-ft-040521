@@ -15,3 +15,7 @@ end
 def using_flatten(haircuts)
   haircuts.flatten
 end
+
+def using_flatten(haircuts)
+  haircuts.flatten
+end
