@@ -16,6 +16,6 @@ def using_flatten(haircuts)
   haircuts.flatten
 end
 
-def using_delete(instructors)
-  instructors.delete
+def using_delete(instructors,"Steven")
+  instructors.delete("Steven")
 end
