@@ -20,3 +20,8 @@ def using_delete(instructors,x)
   x="Steven"
   instructors.delete(x)
 end
+
+def using_delete(instructors,x)
+  x="Steven"
+  instructors.delete(x)
+end
